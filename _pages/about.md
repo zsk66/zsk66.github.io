@@ -13,6 +13,6 @@ I am Shengkun Zhu, a first-year Ph. D student at Wuhan University, under the sup
 News
 ------
 
-* I got one paper accepted by SIGMOD'24.
-* I finally finished my homepage.
+* [Sep 2023] I finally finished my homepage.
+* [Jul 2023] I got one paper accepted by SIGMOD'24.
   
