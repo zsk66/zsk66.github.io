@@ -15,3 +15,6 @@ Scroll down to see more.
 News
 ------
 
+* I got one paper accepted by SIGMOD'24.
+* I finally finished my homepage.
+  
