@@ -21,4 +21,5 @@ I am Shengkun Zhu, a first-year Ph. D student at Wuhan University, under the sup
 
 <img src="images/kl.png" width="50%" height="auto">
 
-My lovely cat, namely, Kurdyka Łojasiewicz Geometry. When he was still a little baby, his face was quite pointed, but now it has become chubby.
+My lovely cat, namely, <font color=blue>Kurdyka Łojasiewicz Geometry</font>. 
+When he was still a little baby, his face was quite pointed, but now it has become chubby.
