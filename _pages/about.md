@@ -19,4 +19,4 @@ I am Shengkun Zhu, a first-year Ph. D student at Wuhan University, under the sup
 **Miscellaneous**
 ------
 
-![Kurdyka-Łojasiewicz](图片链接)
+![Kurdyka-Łojasiewicz](kl.png)
