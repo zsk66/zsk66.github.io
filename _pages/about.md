@@ -18,7 +18,7 @@ I am Shengkun Zhu, a first-year Ph. D student at Wuhan University, under the sup
 
 **Publications**
 ------
-**Shengkun Zhu**, Sheng Wang*, Jinshan Zeng, Yuan Sun, Quanqing Xu, Zhifeng Yang, Chuanhui Yang, Zhiyong Peng, F3KM: Federated, Fair, and Fast K-means, 2024 ACM Conference on Management of Data, (SIGMOD'24).
+**Shengkun Zhu**, Quanqing Xu, Jinshan Zeng, Yuan Sun, Sheng Wang*, Zhifeng Yang, Chuanhui Yang, Zhiyong Peng, F3KM: Federated, Fair, and Fast K-means, 2024 ACM Conference on Management of Data, (SIGMOD'24).
 
 
 **Miscellaneous**
