@@ -24,7 +24,9 @@ I am Shengkun Zhu, a first-year Ph. D student at Wuhan University, under the sup
 **Miscellaneous**
 ------
 
-<img src="images/kl.png" width="50%" height="auto">
+<img src="images/kl.png" width="30%" height="auto">
+<img src="images/kl1.png" width="30%" height="auto">
+<img src="images/kl2.png" width="30%" height="auto">
 
 My lovely cat, namely, <font color=blue>Geometry</font>. 
 When he was still a little baby, his face was quite pointed, but now it has become chubby.
