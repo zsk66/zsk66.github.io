@@ -32,5 +32,5 @@ Invited Reviewer for Journal of Machine Learning Research (JMLR), Transactions o
 <img src="images/kl1.jpg" width="30%" height="auto">
 <img src="images/kl2.jpg" width="30%" height="auto">
 
-My lovely cat, namely, <font color=blue>Geometry</font>. 
+I love spending time with my lovely cat, <font color=blue>Geometry</font>. 
 When he was still a little baby, his face was quite pointed, but now it has become chubby.
