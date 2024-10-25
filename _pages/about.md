@@ -22,7 +22,7 @@ I am Shengkun Zhu, a second-year Ph. D student at Wuhan University, under the su
 
 **Service**
 ------
-Invited Reviewer for Journal of Machine Learning Research (JMLR), Transactions on Knowledge and Data Engineering (TKDE).
+Invited Reviewer for Journal of Machine Learning Research (JMLR), IEEE Transactions on Knowledge and Data Engineering (TKDE).
 
 
 **Miscellaneous**
