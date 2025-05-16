@@ -15,10 +15,14 @@ I am Shengkun Zhu, a second-year Ph. D student at Wuhan University, under the su
 
 * [Sep 2023] I finally finished my homepage.
 * [Apr 2023] I got one paper accepted by SIGMOD'24.
+* [Apr 2025] I got one paper accepted by KDD'25.
+
 
 **Publications**
 ------
 **Shengkun Zhu**, Quanqing Xu, Jinshan Zeng, Sheng Wang*, Yuan Sun, Zhifeng Yang, Chuanhui Yang, Zhiyong Peng, F3KM: Federated, Fair, and Fast K-means, 2024 ACM Conference on Management of Data, (SIGMOD'24).
+
+**Shengkun Zhu**, Feiteng Nie, Jinshan Zeng*, Sheng Wang*, Yuan Sun, Yuan Yao, Shangfeng Chen, Quanqing Xu, Chuanhui Yang, FedAPM: Federated Learning via ADMM with Partial Model Personalization, 2025 ACM SIGKDD Conference on Knowledge Discovery and Data Mining, (KDD'25).
 
 **Service**
 ------
