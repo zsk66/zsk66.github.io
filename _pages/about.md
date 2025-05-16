@@ -22,7 +22,7 @@ I am Shengkun Zhu, a second-year Ph. D student at Wuhan University, under the su
 ------
 **Shengkun Zhu**, Quanqing Xu, Jinshan Zeng, Sheng Wang*, Yuan Sun, Zhifeng Yang, Chuanhui Yang, Zhiyong Peng, F3KM: Federated, Fair, and Fast K-means, 2024 ACM Conference on Management of Data, (SIGMOD'24).
 
-**Shengkun Zhu**, Feiteng Nie, Jinshan Zeng*, Sheng Wang*, Yuan Sun, Yuan Yao, Shangfeng Chen, Quanqing Xu, Chuanhui Yang, FedAPM: Federated Learning via ADMM with Partial Model Personalization, 2025 ACM SIGKDD Conference on Knowledge Discovery and Data Mining, (KDD'25).
+**Shengkun Zhu**, Feiteng Nie, Jinshan Zeng, Sheng Wang, Yuan Sun, Yuan Yao, Shangfeng Chen, Quanqing Xu, Chuanhui Yang, FedAPM: Federated Learning via ADMM with Partial Model Personalization, 2025 ACM SIGKDD Conference on Knowledge Discovery and Data Mining, (KDD'25).
 
 **Service**
 ------
