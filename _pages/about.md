@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Shengkun Zhu, a second-year Ph. D student at Wuhan University, under the supervision of Prof. [Sheng Wang](http://sheng.whu.edu.cn/), in the [Totem database Lab](http://totemdb.whu.edu.cn/). I am also lucky to have opportunities to collaborate with Yuan Yao (Professor at HKUST), Jianshan Zeng (Professor at Xi’an Jiaotong University). I completed my B.S. at Dalian University of Technology in 2018. My current research interests are in convex/nonconvex optimization, federated, and fair clustering/learning.
+I am Shengkun Zhu, a second-year Ph. D student at Wuhan University, under the supervision of Prof. [Sheng Wang](http://sheng.whu.edu.cn/), in the [Totem database Lab](http://totemdb.whu.edu.cn/). I am also lucky to have opportunities to collaborate with Prof. [Yuan Yao](https://yao-lab.github.io/) and Prof. [Jianshan Zeng](https://scholar.google.com.au/citations?user=au5gb2EAAAAJ&hl=zh-CN). I completed my B.S. at Dalian University of Technology in 2018. My current research interests are in convex/nonconvex optimization, federated, and fair clustering/learning.
 
 **News**
 ------
